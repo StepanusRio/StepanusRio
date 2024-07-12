@@ -28,4 +28,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stepanusrio&show_icons=true&theme=dracula&hide_border=true&locale=en" alt="stepanusrio" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stepanusrio&theme=dark" alt="stepanusrio" /></p>
-[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](#)
